@@ -1,48 +1,79 @@
-# Welcome to SpineWorkspace
+# SpineWorkspace
 
-🔗 **AI-first integration and automation for Customer Success**
+**Operational continuity for Human + AI work.**
 
-We build platform-agnostic integration and automation solutions that help SaaS teams normalize data across 15+ tools using real-time webhooks, intelligent processing, and multi-model AI orchestration.
+SpineWorkspace is an operational continuity platform that connects **business context, work, decisions, actions, and memory**—providing a shared workspace where humans and AI work from the same business context.
 
-## What We Do
+## Why SpineWorkspace
 
-- 🧠 **Enterprise AI Automation** - Closed-loop systems that orchestrate business operations
-- 🔄 **Real-time Integrations** - 15+ provider webhooks (HubSpot, Salesforce, Stripe, GitHub, etc.)
-- 📊 **Unified Dashboards** - Centralized command centers for complex workflows
-- 🔐 **Enterprise Security** - Encrypted secrets, OAuth, mTLS, and governance at scale
-- ⚡ **Serverless Architecture** - Built on Next.js, Hono, Neon, Cloudflare Workers, Vercel
+Business context is fragmented across applications, conversations, documents, workflows, and people.
 
-## Our Projects
+Humans spend time reconstructing context before they can act. AI often works from only a fragment of the business state.
 
-### 🌟 Featured: IntegrateWise Hub Platform
-A complete monorepo featuring API, frontend, worker deployments, Kubernetes, and Terraform infrastructure. [Explore](https://github.com/integratewise/hub-platform)
+SpineWorkspace keeps that context connected and continuous so work can move forward without losing the decisions, rationale, actions, and memory behind it.
 
-### 📦 Open Source
-- **integratewise-webhooks** - Webhook ingress for IntegrateWise using Cloudflare Workers
-- **packs-sdk** - SDK for Coda Packs development
-- **integratewise-docs** - Deployment guides, architecture schemas, and API documentation
+## How It Works
 
-## Tech Stack
+```text
+Business Context
+      ↓
+     Work
+      ↓
+   Decisions
+      ↓
+    Actions
+      ↓
+    Memory
+      ↓
+Continuity
+```
 
-**Languages:** TypeScript, JavaScript, Python
-**Frontend:** Next.js, React, Tailwind CSS, Shadcn/ui
-**Backend:** Node.js, Express, Hono, Cloudflare Workers
-**Databases:** PostgreSQL, MongoDB, Neon
-**Cloud:** Vercel, Cloudflare, AWS, Kubernetes, Terraform
-**AI:** OpenAI, Anthropic (Claude), Google AI, Perplexity
+The same contextual foundation is available to both humans and AI.
 
-## Quick Links
+- **Context** — assembles relevant business state across connected systems
+- **Work** — organizes activity around what needs to happen
+- **Decisions** — preserves rationale, evidence, dependencies, and authority
+- **Actions** — connects approved work to executable capabilities
+- **Memory** — carries outcomes and learning forward
+- **Continuity** — keeps work understandable and resumable across people, systems, AI, and time
 
-- 🌐 [Website](https://integratewise.co)
-- 📚 [Documentation](https://github.com/integratewise/integratewise-docs)
-- 💼 [LinkedIn](https://linkedin.com/company/integratewise)
-- 🐦 [Twitter/X](https://twitter.com/integratewise)
-- 📧 Email: connect@integratewise.co
+## The Spine
 
-## Contributing
+**Spine** is the contextual backbone beneath SpineWorkspace.
 
-We welcome contributions! Please check out our repositories and feel free to submit PRs or open issues.
+It connects business entities, relationships, objectives, KPIs, signals, events, evidence, decisions, work, actions, and memory into a governed business context.
+
+## Human + AI
+
+SpineWorkspace is not built around AI working in isolation.
+
+Humans and AI operate from the **same business context**:
+
+- AI can gather and assemble context
+- AI can reason over current work and history
+- AI can propose next actions
+- Humans retain authority over consequential decisions
+- Executed actions are observed and reconciled
+- Outcomes become part of organizational memory
+
+## Platform
+
+SpineWorkspace brings together:
+
+- **Spine Workbench** — the human work surface
+- **Spine Twin** — the context-aware AI counterpart
+- **Spine Fabric** — governed business context and continuity
+- **Spine Runtime** — orchestration, governance, execution, observation, and reconciliation
+- **Spine Marketplace** — connectors, MCP capabilities, plugins, and tools
+
+## Core Principle
+
+> **One business context. Human and AI working together. Work that stays continuous.**
+
+## Website
+
+[spineworkspace.com](https://spineworkspace.com)
 
 ---
 
-**Building the future of enterprise automation, one integration at a time.** 🚀
+**SpineWorkspace — Operational continuity for Human + AI work.**
