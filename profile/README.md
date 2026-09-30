@@ -12,21 +12,29 @@ SpineWorkspace brings people, AI, and the relevant business context into one sha
 
 ## What we believe
 
-AI should not be another disconnected interface or replace human accountability.
+AI should not become another disconnected interface or replace human accountability.
 
 AI should work alongside people from the same governed business context—helping them understand what matters, prepare work, reduce repetitive effort, coordinate authorized actions, and keep work moving.
 
 Humans remain responsible for intent, judgment, relationships, approvals, commitments, and consequential decisions.
 
+## Spine
+
+**Spine is the governed data spine of the business.**
+
+It connects business data, entities, relationships, goals, signals, decisions, work, evidence, actions, outcomes, and memory across systems and time.
+
+Spine provides the shared business context that powers SpineWorkspace and future products from Spine InnovLabs.
+
 ## SpineWorkspace
 
-SpineWorkspace connects the tools organizations already use and assembles the context around customers, goals, relationships, work, decisions, evidence, and outcomes.
+SpineWorkspace connects the tools organizations already use and assembles relevant context around customers, goals, relationships, work, decisions, evidence, and outcomes.
 
 Its core components include:
 
 - **Spine Workbench** — the human work surface
-- **Spine Twin** — a context-aware AI counterpart
-- **Spine Fabric** — the governed business-context layer
+- **Spine Twin** — the context-aware AI counterpart
+- **Spine Fabric** — the governed data and business-context fabric
 - **Spine Marketplace** — connectors, plugins, MCP capabilities, and integrations
 - **Spine Runtime** — governance, orchestration, execution, observation, and reconciliation
 
