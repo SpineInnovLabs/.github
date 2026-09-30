@@ -1,48 +1,40 @@
-# Spine Workspace
+# Spine InnovLabs
 
-## The business-context workspace where humans and AI work together
+## Building SpineWorkspace
 
-Spine Workspace brings people, AI, and the business context they need into one shared workspace.
+Spine InnovLabs builds **SpineWorkspace** — the business-context workspace where humans and AI work together.
 
-Work today is spread across CRM, support tools, documents, messages, project systems, and many other applications. People repeatedly reconstruct the story: what happened, what matters, who owns the next step, what was agreed, and what should happen next.
+Business work is spread across CRM, support, documents, messages, project systems, and many other tools. Before work can move forward, people often need to reconstruct the story: what happened, what matters, who owns the next step, what has been decided, and what should happen next.
 
-Spine Workspace helps humans and AI work from the same governed business context—so they can understand the business, share work according to their capabilities and authority, and move goals forward together.
+SpineWorkspace brings people, AI, and the relevant business context into one shared workspace.
 
 > **Shared business context. Collaborative work between humans and AI.**
 
-## How it works
+## What we believe
 
-Spine Workspace connects to the tools an organization already uses and assembles the relevant business context around customers, goals, relationships, decisions, work, evidence, and outcomes.
+AI should not be another disconnected interface or replace human accountability.
 
-That context supports a shared way of working:
+AI should work alongside people from the same governed business context—helping them understand what matters, prepare work, reduce repetitive effort, coordinate authorized actions, and keep work moving.
 
-- **Humans** provide intent, judgment, relationships, approvals, and accountability.
-- **AI** helps understand context, prepare work, reduce repetitive effort, coordinate authorized actions, and surface what needs attention.
-- **Spine** preserves the governed context, evidence, decisions, and outcomes that let work continue without repeatedly rebuilding the story.
+Humans remain responsible for intent, judgment, relationships, approvals, commitments, and consequential decisions.
 
-## The workspace
+## SpineWorkspace
+
+SpineWorkspace connects the tools organizations already use and assembles the context around customers, goals, relationships, work, decisions, evidence, and outcomes.
+
+Its core components include:
 
 - **Spine Workbench** — the human work surface
-- **Spine Twin** — the context-aware AI counterpart
-- **Spine Fabric** — the governed context, truth, relationship, signal, and continuity layer
-- **Spine Marketplace** — connectors, MCP capabilities, plugins, and integrations
+- **Spine Twin** — a context-aware AI counterpart
+- **Spine Fabric** — the governed business-context layer
+- **Spine Marketplace** — connectors, plugins, MCP capabilities, and integrations
 - **Spine Runtime** — governance, orchestration, execution, observation, and reconciliation
 
-## Principles
+## Our principle
 
-- Work from shared business context, not disconnected fragments.
-- Keep the tools your organization already uses.
-- Let AI assist and execute within clear authority boundaries.
-- Keep humans responsible for consequential decisions and commitments.
-- Treat proposed, observed, approved, executed, and reconciled outcomes differently.
-- Preserve evidence and context so work can continue across people, AI, and systems.
+> **Humans govern the business. AI helps the business work. SpineWorkspace keeps the context together.**
 
-## What we are building
+## Learn more
 
-Spine Workspace is not another disconnected application or another AI chat window.
-
-It is the workspace around the business: a place where people and AI can understand what matters, prepare and complete work, verify outcomes, and keep the business moving forward.
-
----
-
-**Humans govern the business. AI helps the business work. Spine Workspace keeps the context together.**
+- [SpineWorkspace](https://spineworkspace.com)
+- [Spine InnovLabs on GitHub](https://github.com/spineinnovlabs)
