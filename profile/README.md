@@ -1,4 +1,4 @@
-# Welcome to IntegrateWise
+# Welcome to SpineWorkspace
 
 🔗 **AI-first integration and automation for Customer Success**
 
