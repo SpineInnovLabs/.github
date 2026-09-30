@@ -1,79 +1,48 @@
-# SpineWorkspace
+# Spine Workspace
 
-**Operational continuity for Human + AI work.**
+## The business-context workspace where humans and AI work together
 
-SpineWorkspace is an operational continuity platform that connects **business context, work, decisions, actions, and memory**—providing a shared workspace where humans and AI work from the same business context.
+Spine Workspace brings people, AI, and the business context they need into one shared workspace.
 
-## Why SpineWorkspace
+Work today is spread across CRM, support tools, documents, messages, project systems, and many other applications. People repeatedly reconstruct the story: what happened, what matters, who owns the next step, what was agreed, and what should happen next.
 
-Business context is fragmented across applications, conversations, documents, workflows, and people.
+Spine Workspace helps humans and AI work from the same governed business context—so they can understand the business, share work according to their capabilities and authority, and move goals forward together.
 
-Humans spend time reconstructing context before they can act. AI often works from only a fragment of the business state.
+> **Shared business context. Collaborative work between humans and AI.**
 
-SpineWorkspace keeps that context connected and continuous so work can move forward without losing the decisions, rationale, actions, and memory behind it.
+## How it works
 
-## How It Works
+Spine Workspace connects to the tools an organization already uses and assembles the relevant business context around customers, goals, relationships, decisions, work, evidence, and outcomes.
 
-```text
-Business Context
-      ↓
-     Work
-      ↓
-   Decisions
-      ↓
-    Actions
-      ↓
-    Memory
-      ↓
-Continuity
-```
+That context supports a shared way of working:
 
-The same contextual foundation is available to both humans and AI.
+- **Humans** provide intent, judgment, relationships, approvals, and accountability.
+- **AI** helps understand context, prepare work, reduce repetitive effort, coordinate authorized actions, and surface what needs attention.
+- **Spine** preserves the governed context, evidence, decisions, and outcomes that let work continue without repeatedly rebuilding the story.
 
-- **Context** — assembles relevant business state across connected systems
-- **Work** — organizes activity around what needs to happen
-- **Decisions** — preserves rationale, evidence, dependencies, and authority
-- **Actions** — connects approved work to executable capabilities
-- **Memory** — carries outcomes and learning forward
-- **Continuity** — keeps work understandable and resumable across people, systems, AI, and time
-
-## The Spine
-
-**Spine** is the contextual backbone beneath SpineWorkspace.
-
-It connects business entities, relationships, objectives, KPIs, signals, events, evidence, decisions, work, actions, and memory into a governed business context.
-
-## Human + AI
-
-SpineWorkspace is not built around AI working in isolation.
-
-Humans and AI operate from the **same business context**:
-
-- AI can gather and assemble context
-- AI can reason over current work and history
-- AI can propose next actions
-- Humans retain authority over consequential decisions
-- Executed actions are observed and reconciled
-- Outcomes become part of organizational memory
-
-## Platform
-
-SpineWorkspace brings together:
+## The workspace
 
 - **Spine Workbench** — the human work surface
 - **Spine Twin** — the context-aware AI counterpart
-- **Spine Fabric** — governed business context and continuity
-- **Spine Runtime** — orchestration, governance, execution, observation, and reconciliation
-- **Spine Marketplace** — connectors, MCP capabilities, plugins, and tools
+- **Spine Fabric** — the governed context, truth, relationship, signal, and continuity layer
+- **Spine Marketplace** — connectors, MCP capabilities, plugins, and integrations
+- **Spine Runtime** — governance, orchestration, execution, observation, and reconciliation
 
-## Core Principle
+## Principles
 
-> **One business context. Human and AI working together. Work that stays continuous.**
+- Work from shared business context, not disconnected fragments.
+- Keep the tools your organization already uses.
+- Let AI assist and execute within clear authority boundaries.
+- Keep humans responsible for consequential decisions and commitments.
+- Treat proposed, observed, approved, executed, and reconciled outcomes differently.
+- Preserve evidence and context so work can continue across people, AI, and systems.
 
-## Website
+## What we are building
 
-[spineworkspace.com](https://spineworkspace.com)
+Spine Workspace is not another disconnected application or another AI chat window.
+
+It is the workspace around the business: a place where people and AI can understand what matters, prepare and complete work, verify outcomes, and keep the business moving forward.
 
 ---
 
-**SpineWorkspace — Operational continuity for Human + AI work.**
+**Humans govern the business. AI helps the business work. Spine Workspace keeps the context together.**
